@@ -1,0 +1,16 @@
+<div id="cd-widget"></div>
+<script>
+  (function() {
+      if (window.chatWidgetScriptLoaded) return;
+      window.ChatWidgetConfig = {
+        projectId: "687162835beedb6390bdc17a", 
+      };
+
+      var chatWidgetScript = document.createElement("script");
+      chatWidgetScript.type = 'text/javascript';
+      chatWidgetScript.src = "https://storage.googleapis.com/cdwidget/dist/assets/js/main.js";
+      document.body.appendChild(chatWidgetScript);
+
+      window.chatWidgetScriptLoaded = true;
+  })();
+</script>
