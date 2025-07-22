@@ -1,4 +1,4 @@
-# free-highlevel-support-ai
+# A FREE HighLevel Support AI Widget Grey Labeled for Agencies & Sub-Accounts
 A free HighLevel Support AI Widget for all HighLevel users!
 
 ## How to Use the Free Support Bot
